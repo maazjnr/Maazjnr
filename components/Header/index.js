@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react"
 import { Container } from ".."
 import userAvatar from "../../public/images/avatar/avatar.png"
-
 import usersInfo from "../../data/usersInfo.json"
 import languages from "../../data/languages.json"
 
@@ -135,7 +134,6 @@ function ResumeViewer({ openResume }) {
 
     function dowloadCv() {
         let link = document.createElement("a")
-        link.href = resume;
         link.download = "resume.pdf"
         link.click()
     }
