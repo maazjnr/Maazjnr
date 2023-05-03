@@ -1,1 +1,2 @@
-Hello, i'm maaz
+Hello, 
+I’m well known as Maaz, I am a Self-Taught Web & Mobile developer based in Nigeria (West Africa). I Am passionate programmer who love to build useful software an solve technical problems with my skills. I also possess excellent problem-solving skills, attention to detail, and a commitment to meeting deadlines. I am a quick learner and always eager to expand my skillset to take on new challenges and improve my abilities.
