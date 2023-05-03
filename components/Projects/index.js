@@ -192,7 +192,7 @@ function StarRatings({ count = 1, size = 3, title = "star" }) {
 
 // {
 //   "title": "Money Manager App UI",
-//   "imageUrl": ""
+//   "imageUrl": "",
 //   "project_url": "https://github.com/maazjnr/taskApp-backend",
 //   "description": "Golang code for task-app",
 //   "tags": ["Go", "Dart", "Flutter"]
