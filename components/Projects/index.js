@@ -123,7 +123,7 @@ function Projects() {
                         ""
                 }
             </div>
-            <div className="w-full h-auto mt-4 mb-5 p-3 flex flex-row flex-wrap items-center justify-between ">
+            <div className="w-full h-auto mt-5 mb-5 p-3 flex flex-row flex-wrap items-center justify-between ">
                 {loading ? "Loading..." : error !== null ? <p>{error}</p> : <GithubRepo repos={repo} />}
             </div>
         </div>
